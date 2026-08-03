@@ -4,7 +4,7 @@ Welcome to my certifications portfolio! This repository contains a curated colle
 
 ## 🎓 Education
 
-* **Vellore Institute of Technology**
+* **VIT Bhopal University**
   * **CGPA:** 8.1
 * **St. Joseph's School**
   * **12th Grade:** 81%
@@ -17,24 +17,31 @@ Welcome to my certifications portfolio! This repository contains a curated colle
 *Click on any of the links below to view the respective certificate or score report.*
 
 ### 🤖 Generative AI
-* [Gen AI (Foundation)](./Gen%20AI%20(Foundation).pdf)
-* [Gen AI (Professional)](./Gen%20AI%20(Professional).pdf)
-* [Gen AI (Completion)](./Gen%20AI%20(Completion).pdf)
-* **Score Reports:**
-  * [Score Report (Gen AI)](./ScoreReport(Gen%20AI).pdf)
-  * [Score Report (Gen AI Professional)](./ScoreReport%20(Gen%20AI%20P).pdf)
+* **Oracle Generative AI Professional** | *Provider: Oracle*
+  * [Certificate](./Gen%20AI%20(Professional).pdf)
+  * [Score Report](./ScoreReport%20(Gen%20AI%20P).pdf)
+* **Oracle Generative AI Foundations** | *Provider: Oracle*
+  * [Certificate](./Gen%20AI%20(Foundation).pdf)
+  * [Score Report](./ScoreReport(Gen%20AI).pdf)
+* **Generative AI Course Completion** 
+  * [Certificate](./Gen%20AI%20(Completion).pdf)
 
 ### 💻 Programming & Development
-* [Java Foundations Associate](./Java.pdf)
-  * [Score Report (Java)](./ScoreReport(Java).pdf)
-* [Python Essentials](./Python%20Essentials.png)
+* **Java Foundations Associate** | *Provider: Oracle*
+  * [Certificate](./Java.pdf)
+  * [Score Report](./ScoreReport(Java).pdf)
+* **Python Essentials** | *Provider: VITyarthi*
+  * [Certificate](./Python%20Essentials.png)
 
 ### ☁️ Cloud & IT Infrastructure
-* [Cloud Computing](./Cloud%20Computing.pdf)
-* [The Bits and Bytes of Computer Networking](./The%20Bits%20and%20Bytes%20of%20Computer%20Networking.pdf)
+* **The Bits and Bytes of Computer Networking** | *Provider: Google*
+  * [Certificate](./The%20Bits%20and%20Bytes%20of%20Computer%20Networking.pdf)
+* **Cloud Computing** | *Provider: Indian Institute of Technology Kharagpur*
+  * [Certificate](./Cloud%20Computing.pdf)
 
 ### 📊 Data & Business Analytics
-* [Marketing Analytics](./Marketing%20Analytics.pdf)
+* **Marketing Analytics** | *Provider: Indian Institute of Technology Kharagpur*
+  * [Certificate](./Marketing%20Analytics.pdf)
 
 ---
 *Repository maintained by [Yash Singh](https://github.com/yashsingh-19).*
